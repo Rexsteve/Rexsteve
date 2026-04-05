@@ -1,52 +1,42 @@
-\# Hi, I'm Rex Steve 👋
+# Stephen Ochieng (RexSteve) 👋
 
+## 💻 Software Developer | Systems Builder
 
+I am a Computer Science student focused on building real-world systems that solve practical problems using web technologies.
 
-\## 💻 Aspiring Software Developer
+---
 
+## 🚀 Featured Projects
 
+- Hospital Management Information System (HMIS)
+- Event Management System
 
-I am a Computer Science student focused on building practical, real-world systems that solve problems.
+---
 
+## 💡 Interests & Project Ideas
 
+- Music Sheet Reader (AI-assisted reading system)
+- AI Video Clipping Tool for long-form content
+- Digital marketplace for URL-based services
+- Kenyan Football Analytics Web App
 
-\## 🚀 Projects
+---
 
-\- Hospital Management Information System (HMIS)
+## 🛠️ Tech Stack
 
-\- Event Management System
+- PHP, MySQL
+- HTML, CSS, JavaScript
+- Git & GitHub
+- XAMPP Development Environment
 
+---
 
+## 🎯Current Goal
 
-\## IDEAS YET TO WORK ON
-- Music Sheet Reader 
+To secure a software development attachment and grow into a strong full-stack developer building impactful systems.
 
-\- Movie/Long Video AI Clipping Software
-- A platform to buy and sell URL links
+---
 
-\- A Kenyan football web app identical to EPL
+## 📫 Contact
 
-
-
-\## 🛠️ Skills
-
-\- PHP, MySQL
-
-\- HTML, CSS, JavaScript
-
-\- Git \& GitHub
-
-\- XAMPP Development
-
-
-
-\## 🎯 Goal
-
-To secure a software development attachment and grow into a full-stack developer.
-
-
-
-\## 📫 Contact
-
-GitHub: https://github.com/Rexsteve
-
+Email: stephen.ochiengofficial@gmail.com
