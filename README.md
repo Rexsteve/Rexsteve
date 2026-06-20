@@ -1,5 +1,4 @@
-# Stephen Ochieng (RexSteve) 👋
-
+# Stephen Ochieng (RexSteve)
 ## Software Developer focused on UI/UX Design
 
 I am a Computer Science student focused on building real-world systems that solve practical problems using web technologies.
